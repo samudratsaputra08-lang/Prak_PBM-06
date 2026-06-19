@@ -3,7 +3,7 @@
 Aplikasi CRUD (Create, Read, Update, Delete) data mahasiswa menggunakan Flutter dan SQLite.
 
 ## Pembuat
-Reza Brema Ginting 4523210092
+Samudra Tsalasa Putra 4523210100
 
 ## Fitur
 - Tambah data mahasiswa
